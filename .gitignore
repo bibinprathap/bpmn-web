@@ -11,7 +11,7 @@
 !src/test/**/*.js
 /bin
 /dist
-.env
+
 *.njsproj
 .vscode
 *.bak
